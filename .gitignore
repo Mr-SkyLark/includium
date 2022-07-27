@@ -1,0 +1,14 @@
+# Python
+# directory
+__pycache__/
+
+
+# files
+
+# database
+db.sqlite3
+
+# -------------------------------------------
+# JavaScript
+# directory
+node_modeules/
